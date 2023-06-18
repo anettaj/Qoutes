@@ -6,4 +6,5 @@ This Flutter app is a collection of inspiring quotes from famous individuals, de
 * Get inspired by the profound insights and wisdom shared by great thinkers.
 * Enjoy a visually stunning and intuitive user interface.
 
-<img src="https://github.com/anettaj/Qoutes/assets/58222128/ca1fe5fc-0413-4b3c-bdfc-585f98d97425.png" width="380" height="580">
+
+<img src="https://github.com/anettaj/Qoutes/assets/58222128/579a202c-946a-44e7-bfa7-f85ddae61c5a.png" width="380" height="580">
