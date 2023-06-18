@@ -1,4 +1,4 @@
-# quotes
+# Quotes
 This Flutter app is a collection of inspiring quotes from famous individuals, designed to bring motivation and wisdom to your daily life. The app provides an immersive user experience with its sleek UI built on Flutter's open-source framework. 
 
 ## Features
