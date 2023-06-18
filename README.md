@@ -1,16 +1,9 @@
 # quotes
+This Flutter app is a collection of inspiring quotes from famous individuals, designed to bring motivation and wisdom to your daily life. The app provides an immersive user experience with its sleek UI built on Flutter's open-source framework. 
 
-A new Flutter project.
+## Features
+* Browse a curated collection of quotes from renowned personalities.
+* Get inspired by the profound insights and wisdom shared by great thinkers.
+* Enjoy a visually stunning and intuitive user interface.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/anettaj/Qoutes/assets/58222128/ca1fe5fc-0413-4b3c-bdfc-585f98d97425.png" width="380" height="580">
